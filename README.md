@@ -9,6 +9,8 @@ SilenceScissors allows you to remove silence from audio files. Currently, you ca
 
 Contributions to Futurist Acoustics GitHub projects welcome!
 
+## Setup
+Currently, it's just a simple notebook project. We plan to make it into a script or GUI Python program in the future.
 
 ### Example
 | Audio         | Duration      |
@@ -29,6 +31,7 @@ Contributions to Futurist Acoustics GitHub projects welcome!
 - [ ] Check functionality at different sampling rates
 - [ ] Compatible with WAV, AAC, MP3
 ### Low Priority
+- [ ] Is more than just a notebook
 - [ ] Auto-detects most probable threshold for user
 - [ ] Compatible with video (edits the footage)
 
