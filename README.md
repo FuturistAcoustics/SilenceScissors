@@ -14,13 +14,15 @@ SilenceScissors allows you to remove silence from audio files. Currently, you ca
 
 ## Feature Aims
 ### High Priority
-- Set the threshold in dBFS (not raw RMS)
-- Add hold
-- Compatibility for both mono and stereo
-- Compatibility with different bit depth WAVs
+- [x] Add attack
+- [x] Add release
+- [ ] Add hold
+- [ ] Set the threshold in dBFS (not raw RMS)
+- [ ] Compatibility for both mono and stereo
+- [ ] Compatibility with different bit depth WAVs
 ### Mid Priority
-- Check functionality at different sampling rates
-- Compatible with WAV, AAC, MP3
+- [ ] Check functionality at different sampling rates
+- [ ] Compatible with WAV, AAC, MP3
 ### Low Priority
-- Auto-detects most probable thershold
-- Compatible with video (edits the footage)
+- [ ] Auto-detects most probable thershold
+- [ ] Compatible with video (edits the footage)
