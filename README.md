@@ -2,11 +2,10 @@
 SilenceScissors allows you to remove silence from audio files. Currently, you can set the RMS amplitude threshold, attack time, and release time to remove areas of silence in your audio files. Works great for removing the down-time in a podcast to get just speech and save time.
 
 ## Example
-| Audio         | Duration      | Cool  |
-| ------------- |:-------------:| -----:|
-| [Original](https://futuristacoustics.com/wp-content/uploads/2022/12/Moby-Dick-Original.wav) | 60 s | $1600 |
-| [ Output](https://futuristacoustics.com/wp-content/uploads/2022/12/Moby-Dick-Output.wav) | 51 s      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Audio         | Duration      |
+| ------------- |:-------------:|
+| [Original](https://futuristacoustics.com/wp-content/uploads/2022/12/Moby-Dick-Original.wav) | 60 s |
+| [ Output](https://futuristacoustics.com/wp-content/uploads/2022/12/Moby-Dick-Output.wav) | 51 s      |
 
 
 ## Feature Aims
