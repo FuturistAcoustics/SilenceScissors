@@ -24,5 +24,5 @@ SilenceScissors allows you to remove silence from audio files. Currently, you ca
 - [ ] Check functionality at different sampling rates
 - [ ] Compatible with WAV, AAC, MP3
 ### Low Priority
-- [ ] Auto-detects most probable thershold
+- [ ] Auto-detects most probable threshold for user
 - [ ] Compatible with video (edits the footage)
