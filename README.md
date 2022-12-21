@@ -4,11 +4,10 @@ SilenceScissors allows you to remove silence from audio files. Currently, you ca
 ## Example
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
+| [Original](https://futuristacoustics.com/wp-content/uploads/2022/12/Moby-Dick-Original.wav)      | [ Output](https://futuristacoustics.com/wp-content/uploads/2022/12/Moby-Dick-Output.wav) | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
-| [Original](https://futuristacoustics.com/wp-content/uploads/2022/12/Moby-Dick-Original.wav) |[ Output](https://futuristacoustics.com/wp-content/uploads/2022/12/Moby-Dick-Output.wav) |
 
 ## Feature Aims
 ### High Priority
