@@ -1,5 +1,7 @@
 # SilenceScissors
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SelReHbsNj0OAg_HpkzqJ8AMxP2Al-0x?usp=sharing]
+<a target="_blank" href="https://colab.research.google.com/github/FuturistAcoustics/SilenceScissors/blob/main/SilenceScissors.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 
 ## Summary
