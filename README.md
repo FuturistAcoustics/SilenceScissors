@@ -31,8 +31,8 @@ Currently, it's just a simple notebook project. We plan to make it into a script
 - [ ] Check functionality at different sampling rates
 - [ ] Compatible with WAV, AAC, MP3
 ### Low Priority
-- [ ] Is more than just a notebook
-- [ ] Auto-detects most probable threshold for user
+- [ ] Is more than just a notebook (has a GUI)
+- [ ] Auto-detects most probable ideal threshold for user
 - [ ] Compatible with video (edits the footage)
 
 
