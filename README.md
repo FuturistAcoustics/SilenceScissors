@@ -5,7 +5,7 @@
 
 
 ## Summary
-SilenceScissors allows you to remove silence from audio files. It is designed to be an easy-to-use [noise gate](https://en.wikipedia.org/wiki/Noise_gate), without the need for a [DAW](https://en.wikipedia.org/wiki/Digital_audio_workstation). Currently, you can set the RMS amplitude threshold, attack time, and release time to remove areas of silence in your audio files. Works great for removing the down-time in a podcast to get just speech and save time.
+SilenceScissors allows you to remove silence from audio files. It is designed to be an easy-to-use [noise gate](https://en.wikipedia.org/wiki/Noise_gate), without the need for a [DAW](https://en.wikipedia.org/wiki/Digital_audio_workstation). Currently, you can set the [RMS](https://en.wikipedia.org/wiki/DBFS) amplitude threshold, attack time, and release time to remove areas of silence in your audio files. Works great for removing the down-time in a podcast to get just speech and save time.
 
 Contributions to Futurist Acoustics GitHub projects welcome!
 
